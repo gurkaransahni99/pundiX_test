@@ -1,0 +1,20 @@
+**node_modules**
+config
+build
+chaindb
+artifacts/
+cache/
+coverage/
+.vscode/
+credentials.js
+dummy.sol
+node_modules
+.env
+coverage
+coverage.json
+typechain
+package-lock.json
+
+#Hardhat files
+cache
+artifacts
