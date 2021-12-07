@@ -2,7 +2,7 @@
  * @type import('hardhat/config').HardhatUserConfig
  */
  require("@nomiclabs/hardhat-waffle")
-//  require("@nomiclabs/hardhat-truffle5");
+ require("@nomiclabs/hardhat-truffle5");
  require('hardhat-contract-sizer');
  require("@nomiclabs/hardhat-etherscan");
   // require("hardhat-gas-reporter");
